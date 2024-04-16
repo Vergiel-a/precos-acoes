@@ -1,2 +1,1 @@
-# precos-acoes
-Dashboard de coleta de preços de ações
+# Dashboard de coleta de preços de ações
